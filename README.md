@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Einstientt
+- 👋 Hi, I’m Zakariae Essadqui
 - 👀 I’m interested in web dev and data science
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on web dev and data science i m looking for new projects
